@@ -1,21 +1,21 @@
 {
-  "name": "discord-selfbot",
+  "name": "poczta-discord",
   "version": "1.0.0",
-  "description": "Discord.js selfbot",
+  "description": "Discord.js poczta",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: ahhh\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JinxHvH/discord-selfbot.git"
+    "url": "git+https://github.com/BotGrzesieKK/PocztaDiscordBot"
   },
-  "author": "Jinx#4321",
+  "author": "BotGrzesieKK#7517",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JinxHvH/discord-selfbot/issues"
+    "url": "https://github.com/BotGrzesieKK/PocztaDiscordBot/issues"
   },
-  "homepage": "https://github.com/JinxHvH/discord-selfbot#readme",
+  "homepage": "https://github.com/BotGrzesieKK",
   "dependencies": {
     "chalk": "^3.0.0",
     "discord.js": "^11.6.4",
